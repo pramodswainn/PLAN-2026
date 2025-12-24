@@ -21,7 +21,7 @@ int findTrailingZeros(int n){
 int main()
 {
 
-    int input  = 100;
+    int input  = 250;
     int trailzeros = findTrailingZeros(input);
 
     std::cout<<"Trailing Zeros :" << trailzeros <<std::endl;
